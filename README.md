@@ -9,7 +9,7 @@ Prerequisites:
    -  Helm package manager
    -  Argo CD
 
-Project Demonstration from Deepak side 
+--- Project Demonstration from Deepak side ---
 
 JENKINS :
 
