@@ -11,7 +11,7 @@ Prerequisites:
 
 Project Demonstration from Deepak side 
 
-Jenkins :
+JENKINS :
 
 ![Screenshot (192)](https://github.com/user-attachments/assets/840f7e91-5f78-4491-b034-12886bc4e513)
 ![Screenshot (193)](https://github.com/user-attachments/assets/adf94832-2693-4461-a54c-1fbe0a42d8e2)
